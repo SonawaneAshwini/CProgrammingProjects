@@ -46,7 +46,7 @@ gcc main.c -o attendance
 Replace repository-name with the actual repository name for each project.
 
 ## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/SonawaneAshwini/C-Mini-Projects/blob/main/LICENSE) for details.
 
 
 ## Contributors ✨
