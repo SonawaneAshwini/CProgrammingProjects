@@ -61,6 +61,6 @@ This project is licensed under the MIT License. See the [LICENSE file](https://g
 
 Thank you for visiting my repository!
 
-**If you like this tutorial, please [give it a ⭐ star](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects).**
+**If you like this tutorial, please [give it a ⭐ star](https://github.com/SonawaneAshwini/C-Mini-Projects).**
 
 
