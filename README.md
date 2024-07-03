@@ -24,7 +24,9 @@ Replace repository-name with the actual repository name and executable_name with
 ## General Steps:
 
 Navigate to the project directory.
+
 Compile the program using a C compiler (e.g., gcc).
+
 Execute the compiled executable.
 
 
@@ -37,5 +39,14 @@ gcc main.c -o attendance
  ```
 
 Replace repository-name with the actual repository name for each project.
+
+
+## Contact
+For any inquiries or collaborations, you can reach me via:
+
+GitHub: Your GitHub Profile
+Email: your.email@example.com
+
+Thank you for visiting my repository!
 
 
