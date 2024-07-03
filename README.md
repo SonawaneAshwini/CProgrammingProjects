@@ -4,8 +4,6 @@ Welcome to my repository showcasing various projects developed using C language.
 
 
 
-## C Mini Projects
-
 | **No.** | **Name** | 
 | ------- | -------- | 
 |	01	| **[Project_Name](Repository)** |
