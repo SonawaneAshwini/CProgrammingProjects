@@ -41,11 +41,15 @@ gcc main.c -o attendance
 Replace repository-name with the actual repository name for each project.
 
 
-## Contact
-For any inquiries or collaborations, you can reach me via:
+## Contributors ✨
 
-GitHub: Your GitHub Profile
-Email: your.email@example.com
+
+- Ashwini Sonawane
+  - Contact: ashwinisonawane9853@gmail.com
+  - GitHub: [Profile](https://github.com/SonawaneAshwini)
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub:[Profile]( https://github.com/ShravanDalavi)
 
 Thank you for visiting my repository!
 
