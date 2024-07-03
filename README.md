@@ -28,11 +28,11 @@ Replace repository-name with the actual repository name and executable_name with
 
 ### 3. General Steps:
 
--Navigate to the project directory.
+- Navigate to the project directory.
 
--Compile the program using a C compiler (e.g., gcc).
+- Compile the program using a C compiler (e.g., gcc).
 
--Execute the compiled executable.
+- Execute the compiled executable.
 
 
 ### Example:
