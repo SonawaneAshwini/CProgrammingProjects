@@ -14,21 +14,28 @@ git clone https://github.com/your-username/repository-name.git
 cd repository-name
   ```
 
-## Compile the Program:
 
-  ```sh
-gcc main.c -o executable_name
-
-  ```
-
-
-## Execute the Program:
-
-  ```sh
-./executable_name
-
-  ```
-
+## Compile and Execute:
+Each project typically includes a 'README.md' file with specific instructions on how to compile and run the program. 
+Navigate to the projectdirectory and follow the instructions provided in the README.md file.
 Replace repository-name with the actual repository name and executable_name with the name of the compiled executable specific to each project.
+
+
+## General Steps:
+
+Navigate to the project directory.
+Compile the program using a C compiler (e.g., gcc).
+Execute the compiled executable.
+
+
+### Example:
+
+ ```sh
+cd attendance-monitoring-system
+gcc main.c -o attendance
+./attendance
+ ```
+
+Replace repository-name with the actual repository name for each project.
 
 
