@@ -8,22 +8,27 @@ Welcome to my repository showcasing various projects developed using C language.
 To run any of these projects, follow these general steps:
 
 ## Clone the Repository:
-
+  ```sh
 bash
 git clone https://github.com/your-username/repository-name.git
 cd repository-name
-
+  ```
 
 ## Compile the Program:
-
+  ```sh
 bash
 gcc main.c -o executable_name
+
+  ```
 
 
 ## Execute the Program:
 
+  ```sh
 bash
 ./executable_name
+
+  ```
 
 Replace repository-name with the actual repository name and executable_name with the name of the compiled executable specific to each project.
 
