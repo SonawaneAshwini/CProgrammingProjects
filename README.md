@@ -53,7 +53,8 @@ Replace repository-name with the actual repository name for each project.
 
 1. Go [**`here`**](https://github.com/SonawaneAshwini/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](C_ProgrammingProjects-main).
 
-  ![image](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/assets/172588428/9d3dfb79-474e-4a0a-af5b-1e3ff3a784ef)
+  ![Screenshot (360)](https://github.com/SonawaneAshwini/C_ProgrammingProjects/assets/172588428/74b03acc-f5c2-4323-8091-ec764ff3a711)
+
 
 
 
