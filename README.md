@@ -52,6 +52,10 @@ gcc main.c -o attendance
 Replace repository-name with the actual repository name for each project.
 
 
+## Prerequisites
+Make sure you have a C compiler installed (e.g., GCC). Some projects may require additional libraries or software, which will be specified in their respective folders.
+
+
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
