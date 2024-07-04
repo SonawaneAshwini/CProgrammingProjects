@@ -4,8 +4,6 @@
 ## Introduction
 
 Welcome to the C_ProgrammingProjects repository! This collection includes various projects implemented using the C programming language. Each project focuses on a specific concept, algorithm, or problem, providing hands-on experience and practical examples.
-Welcome to my repository showcasing various projects developed using C language. Below is a list of projects along with links to their respective repositories.
-
 
 ## Project Includede
 Here's a list of some of the projects included in this repository:
