@@ -51,7 +51,7 @@ Replace repository-name with the actual repository name for each project.
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
-1. Go [**`here`**](https://github.com/SonawaneAshwini/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/SonawaneAshwini/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**]().
 
   ![image](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/assets/172588428/9d3dfb79-474e-4a0a-af5b-1e3ff3a784ef)
 
