@@ -10,7 +10,7 @@ Here's a list of some of the projects included in this repository:
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01	| **[Attendance Monitoring System](Repository)** |
+|	01	| **[Attendance Monitoring System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/Attendance%20Monitoring%20System)** |
 
 
 
