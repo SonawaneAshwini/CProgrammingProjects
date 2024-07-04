@@ -10,7 +10,7 @@ Here's a list of some of the projects included in this repository:
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01	| **[Project_Name](Repository)** |
+|	01	| **[Attendance Monitoring System](Repository)** |
 
 
 
