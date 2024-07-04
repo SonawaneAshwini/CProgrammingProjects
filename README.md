@@ -53,7 +53,8 @@ Replace repository-name with the actual repository name for each project.
 
 1. Go [**`here`**](https://github.com/SonawaneAshwini/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](C_ProgrammingProjects-main).
 
-  ![Screenshot (360)](https://github.com/SonawaneAshwini/C_ProgrammingProjects/assets/172588428/74b03acc-f5c2-4323-8091-ec764ff3a711)
+ ![Screenshot (360)](https://github.com/SonawaneAshwini/C_ProgrammingProjects/assets/172588428/0def247f-638c-4eee-87b6-b97225690609)
+
 
 
 
