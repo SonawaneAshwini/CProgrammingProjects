@@ -5,7 +5,6 @@
 #define MAX_ITEMS 100
 #define MAX_ITEM_NAME_LENGTH 100
 
-// Define the structure to store item details
 struct Item {
     int id;
     char name[MAX_ITEM_NAME_LENGTH];
@@ -13,11 +12,9 @@ struct Item {
     int quantity;
 };
 
-// Declare an array to store the items
 struct Item items[MAX_ITEMS];
 int itemCount = 0;
 
-// Function to add a new item
 void addItem() {
     if (itemCount >= MAX_ITEMS) {
         printf("Cannot add more items. The inventory is full.\n");
@@ -38,7 +35,7 @@ void addItem() {
     printf("Item added successfully!\n");
 }
 
-// Function to display all items
+
 void displayItems() {
     if (itemCount == 0) {
         printf("No items to display.\n");
@@ -51,7 +48,7 @@ void displayItems() {
     }
 }
 
-// Function to generate bill
+
 void generateBill() {
     int id, quantity;
     float total = 0.0;
