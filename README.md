@@ -85,7 +85,6 @@ This project is licensed under the MIT License. See the [LICENSE file](https://g
 
 ## Contributors ✨
 
-
 - Ashwini Sonawane
   - Contact: ashwinisonawane9853@gmail.com
   - GitHub: [Profile](https://github.com/SonawaneAshwini)
