@@ -2,13 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Define a structure for bank account
 struct BankAccount {
     int account_no;
     char name[50];
     float balance;
 };
-// Function prototypes
 void createAccount(struct BankAccount* accounts, int* count);
 void deposit(struct BankAccount* accounts, int count);
 void withdraw(struct BankAccount* accounts, int count);
