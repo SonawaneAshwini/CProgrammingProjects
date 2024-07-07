@@ -2,11 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Define the maximum number of buses and seats per bus
 #define MAX_BUSES 5
 #define MAX_SEATS 40
 
-// Define the structure to store bus details
 struct Bus {
     int id;
     char name[50];
@@ -14,11 +12,9 @@ struct Bus {
     int seats[MAX_SEATS];
 };
 
-// Declare an array to store the buses
 struct Bus buses[MAX_BUSES];
 int busCount = 0;
 
-// Function to add a new bus
 void addBus() {
     if (busCount >= MAX_BUSES) {
         printf("Cannot add more buses. The list is full.\n");
@@ -37,7 +33,6 @@ void addBus() {
     printf("Bus added successfully!\n");
 }
 
-// Function to display all buses
 void displayBuses() {
     if (busCount == 0) {
         printf("No buses to display.\n");
@@ -50,7 +45,6 @@ void displayBuses() {
     }
 }
 
-// Function to reserve a seat
 void reserveSeat() {
     int busId, seatNumber;
     printf("Enter Bus ID: ");
@@ -81,7 +75,6 @@ void reserveSeat() {
     printf("Seat %d reserved successfully on bus %s.\n", seatNumber, selectedBus->name);
 }
 
-// Function to cancel a reservation
 void cancelReservation() {
     int busId, seatNumber;
     printf("Enter Bus ID: ");
