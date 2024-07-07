@@ -2,22 +2,19 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Define the maximum number of records and length of names
 #define MAX_RECORDS 100
 #define MAX_NAME_LEN 50
 
-// Define the structure to store attendance records
 struct AttendanceRecord {
     int id;
     char name[MAX_NAME_LEN];
     int isPresent;
 };
 
-// Declare an array to store the attendance records
 struct AttendanceRecord records[MAX_RECORDS];
 int recordCount = 0;
 
-// Function to add a new record
+
 void addRecord() {
     if (recordCount >= MAX_RECORDS) {
         printf("Cannot add more records. The list is full.\n");
@@ -34,7 +31,6 @@ void addRecord() {
     printf("Record added successfully!\n");
 }
 
-// Function to display all records
 void displayRecords() {
     if (recordCount == 0) {
         printf("No records to display.\n");
@@ -47,7 +43,6 @@ void displayRecords() {
     }
 }
 
-// Function to search for a record by ID
 void searchRecord() {
     int id;
     printf("Enter ID to search: ");
@@ -64,7 +59,6 @@ void searchRecord() {
     printf("Record with ID %d not found.\n", id);
 }
 
-// Function to delete a record by ID
 void deleteRecord() {
     int id;
     printf("Enter ID to delete: ");
