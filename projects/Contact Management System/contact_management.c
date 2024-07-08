@@ -2,10 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Define the maximum number of contacts
 #define MAX_CONTACTS 100
 
-// Define the structure to store contact details
 struct Contact {
     int id;
     char name[50];
@@ -13,11 +11,9 @@ struct Contact {
     char email[50];
 };
 
-// Declare an array to store the contacts
 struct Contact contacts[MAX_CONTACTS];
 int contactCount = 0;
 
-// Function to add a new contact
 void addContact() {
     if (contactCount >= MAX_CONTACTS) {
         printf("Cannot add more contacts. The list is full.\n");
@@ -36,7 +32,7 @@ void addContact() {
     printf("Contact added successfully!\n");
 }
 
-// Function to display all contacts
+
 void displayContacts() {
     if (contactCount == 0) {
         printf("No contacts to display.\n");
@@ -49,7 +45,6 @@ void displayContacts() {
     }
 }
 
-// Function to search for a contact by ID
 void searchContact() {
     int id;
     printf("Enter Contact ID to search: ");
@@ -67,7 +62,6 @@ void searchContact() {
     printf("Contact with ID %d not found.\n", id);
 }
 
-// Function to delete a contact by ID
 void deleteContact() {
     int id;
     printf("Enter Contact ID to delete: ");
