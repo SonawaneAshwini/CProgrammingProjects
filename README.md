@@ -16,7 +16,7 @@ Here's a list of some of the projects included in this repository:
 |	**03**	| **[Billing System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Billing%20System)** |
 |	**04**	| **[Bus Reservation System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Bus%20Reservation%20System)** |
 |	**05**	| **[Calender Application](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Calendar%20Application)** |
-|	**06**	| **[Contact MAnagement System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Contact%20Management%20System)** |
+|	**06**	| **[Contact Management System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Contact%20Management%20System)** |
 
 
 
