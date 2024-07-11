@@ -20,7 +20,7 @@ Here's a list of some of the projects included in this repository:
 |	**06**	| **[Contact Management System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Contact%20Management%20System)** |
 |	**07**	| **[Dictionary Application](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Dictionary%20Application)** |
 |	**08**	| **[Employee Payroll System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Employee%20Payroll%20System)** |
-|	**09**	| **[Employee Salary Slip Generation](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Employee%20Payroll%20System)** |
+|	**09**	| **[Employee Salary Slip Generation](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Employee%20Salary%20Slip%20Generation)** |
 
 
 
