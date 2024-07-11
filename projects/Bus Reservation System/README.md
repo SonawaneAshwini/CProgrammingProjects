@@ -44,7 +44,7 @@ gcc bus_reservation.c -o bus_reservation
 5. Follow the on-screen instructions: The program will display a menu with options to add buses, display buses, reserve seats, cancel reservations, or exit the program. Enter the corresponding number to choose an option.
 
 ## Output
-```bash 
+```yaml
 Bus Reservation System
 1. Add Bus
 2. Display Buses
