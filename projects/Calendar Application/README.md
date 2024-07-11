@@ -55,7 +55,7 @@ Enter your choice:
 ```
 
 ## Example 
-```bash 
+```yaml
 Calendar Application
 1. Add Event
 2. Display Events
