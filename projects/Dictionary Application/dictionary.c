@@ -6,17 +6,15 @@
 #define MAX_WORD_LENGTH 50
 #define MAX_DEFINITION_LENGTH 200
 
-// Define the structure to store word details
+
 struct DictionaryEntry {
     char word[MAX_WORD_LENGTH];
     char definition[MAX_DEFINITION_LENGTH];
 };
 
-// Declare an array to store the dictionary entries
 struct DictionaryEntry dictionary[MAX_WORDS];
 int wordCount = 0;
 
-// Function to add a new word to the dictionary
 void addWord() {
     if (wordCount >= MAX_WORDS) {
         printf("Cannot add more words. The dictionary is full.\n");
@@ -34,7 +32,6 @@ void addWord() {
     printf("Word added successfully!\n");
 }
 
-// Function to display all words in the dictionary
 void displayWords() {
     if (wordCount == 0) {
         printf("No words to display.\n");
@@ -47,13 +44,12 @@ void displayWords() {
     }
 }
 
-// Function to search for a word in the dictionary
 void searchWord() {
     char searchWord[MAX_WORD_LENGTH];
     printf("Enter word to search: ");
-    getchar(); // to consume the newline character left by previous input
+    getchar(); 
     fgets(searchWord, MAX_WORD_LENGTH, stdin);
-    searchWord[strcspn(searchWord, "\n")] = 0; // Remove newline character
+    searchWord[strcspn(searchWord, "\n")] = 0; 
     for (int i = 0; i < wordCount; i++) {
         if (strcmp(dictionary[i].word, searchWord) == 0) {
             printf("Definition of %s: %s\n", searchWord, dictionary[i].definition);
@@ -63,13 +59,12 @@ void searchWord() {
     printf("Word not found in the dictionary.\n");
 }
 
-// Function to delete a word from the dictionary
 void deleteWord() {
     char deleteWord[MAX_WORD_LENGTH];
     printf("Enter word to delete: ");
-    getchar(); // to consume the newline character left by previous input
+    getchar(); 
     fgets(deleteWord, MAX_WORD_LENGTH, stdin);
-    deleteWord[strcspn(deleteWord, "\n")] = 0; // Remove newline character
+    deleteWord[strcspn(deleteWord, "\n")] = 0; 
     for (int i = 0; i < wordCount; i++) {
         if (strcmp(dictionary[i].word, deleteWord) == 0) {
             for (int j = i; j < wordCount - 1; j++) {
