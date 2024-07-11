@@ -45,7 +45,7 @@ Execute the compiled program:
 4. Follow the On-Screen Instructions:
 
 The program will display a menu with the available operations. Enter the corresponding number to perform an operation.
-```bash 
+```yaml
 Dictionary Application
 1. Add Word
 2. Display Words
@@ -54,8 +54,8 @@ Dictionary Application
 5. Exit
 Enter your choice: 
 ```
-## Example 
-```bash 
+## Output
+```mathematica
 Dictionary Application
 1. Add Word
 2. Display Words
