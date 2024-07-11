@@ -7,7 +7,6 @@ Welcome to the C_ProgrammingProjects repository! This collection includes variou
 
 
 
-
 ## Project Included
 Here's a list of some of the projects included in this repository:
 
