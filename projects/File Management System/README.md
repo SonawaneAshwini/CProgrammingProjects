@@ -55,7 +55,7 @@ File Management System
 Enter your choice: 
 ```
 ## Example
-```bash 
+```yaml
 File Management System
 1. Create File
 2. Read File
