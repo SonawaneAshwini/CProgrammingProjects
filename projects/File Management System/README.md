@@ -54,7 +54,7 @@ File Management System
 6. Exit
 Enter your choice: 
 ```
-## Example
+## Output
 ```yaml
 File Management System
 1. Create File
