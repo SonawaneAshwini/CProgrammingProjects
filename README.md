@@ -21,7 +21,7 @@ Here's a list of some of the projects included in this repository:
 |	**08**	| **[Employee Payroll System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Employee%20Payroll%20System)** |
 |	**09**	| **[Employee Salary Slip Generation](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Employee%20Salary%20Slip%20Generation)** |
 |	**10**	| **[File Management System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/File%20Management%20System)** |
-|	**11**	| **[Fitness Tracker](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/File%20Management%20System)** |
+|	**11**	| **[Fitness Tracker](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Fitness%20Tracker)** |
 
 
 
