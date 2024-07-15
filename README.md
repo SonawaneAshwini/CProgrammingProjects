@@ -71,7 +71,6 @@ Make sure you have a C compiler installed (e.g., GCC). Some projects may require
 
 
 
-
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
 3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
