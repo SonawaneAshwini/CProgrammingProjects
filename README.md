@@ -21,7 +21,7 @@ Here's a list of some of the projects included in this repository:
 |	**10**	| **[File Management System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/File%20Management%20System)** |
 |	**11**	| **[Fitness Tracker](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Fitness%20Tracker)** |
 |	**12**	| **[Flight Reservation System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Flight%20Reservation%20System)** |
-|	**13**	| **[Hotel Management System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Flight%20Reservation%20System)** |
+|	**13**	| **[Hopital Management System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Hospital%20Management%20System)** |
 
 
 # How to Run
