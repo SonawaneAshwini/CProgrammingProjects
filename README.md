@@ -26,7 +26,6 @@ Here's a list of some of the projects included in this repository:
 |	**16**	| **[Library Catalog System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Library%20Catalog%20System)** |
 
 
-
 # How to Run
 To run any of these projects, follow these general steps:
 
