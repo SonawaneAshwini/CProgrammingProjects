@@ -30,7 +30,6 @@ Here's a list of some of the projects included in this repository:
 |	**20**	| **[Paint Application](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Paint%20Application)** |
 
 
-
 # How to Run
 To run any of these projects, follow these general steps:
 
