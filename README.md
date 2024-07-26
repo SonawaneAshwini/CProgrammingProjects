@@ -28,6 +28,7 @@ Here's a list of some of the projects included in this repository:
 |	**18**	| **[Mini Voting System](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Mini%20Voting%20System)** |
 |	**19**	| **[Online Quize Application](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Online%20Quiz%20Application)** |
 |	**20**	| **[Paint Application](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Paint%20Application)** |
+|	**21**	| **[Simple Calculator](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Paint%20Application)** |
 
 
 # How to Run
