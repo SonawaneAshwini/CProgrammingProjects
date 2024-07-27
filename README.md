@@ -29,7 +29,7 @@ Here's a list of some of the projects included in this repository:
 |	**19**	| **[Online Quize Application](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Online%20Quiz%20Application)** |
 |	**20**	| **[Paint Application](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Paint%20Application)** |
 |	**21**	| **[Simple Calculator](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Simple%20Calculator)** |
-|	**22**	| **[Student Gradebook](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Simple%20Calculator)** |
+|	**22**	| **[Student Gradebook](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Student%20Gradebook)** |
 
 
 # How to Run
