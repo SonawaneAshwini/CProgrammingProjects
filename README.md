@@ -31,6 +31,8 @@ Here's a list of some of the projects included in this repository:
 |	**21**	| **[Simple Calculator](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Simple%20Calculator)** |
 |	**22**	| **[Student Gradebook](https://github.com/SonawaneAshwini/C_ProgrammingProjects/tree/main/projects/Student%20Gradebook)** |
 |	**23**	| **[To-Do List Application](https://github.com/SonawaneAshwini/CProgrammingProjects/tree/main/projects/Todo%20List%20Application)** |
+|	**24**	| **[To-Do List Application](https://github.com/SonawaneAshwini/CProgrammingProjects/tree/main/projects/Todo%20List%20Application)** |
+|	**25**	| **[To-Do List Application](https://github.com/SonawaneAshwini/CProgrammingProjects/tree/main/projects/Todo%20List%20Application)** |
 
 
 # How to Run
