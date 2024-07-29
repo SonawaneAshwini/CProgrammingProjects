@@ -33,7 +33,6 @@ Here's a list of some of the projects included in this repository:
 |	**23**	| **[To-Do List Application](https://github.com/SonawaneAshwini/CProgrammingProjects/tree/main/projects/Todo%20List%20Application)** |
 
 
-
 # How to Run
 To run any of these projects, follow these general steps:
 
