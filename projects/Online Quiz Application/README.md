@@ -40,8 +40,8 @@ gcc quiz_application.c -o quiz_application
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add questions, display questions, conduct a quiz, or exit the program. Enter the corresponding number to choose an option.
 
-## Example
-```bash
+## Output
+```yaml
 Online Quiz Application
 1. Add Question
 2. Display Questions
