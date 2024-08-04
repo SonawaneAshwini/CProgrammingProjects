@@ -53,8 +53,8 @@ Library Catalog System
 5. Exit
 Enter your choice: 
 ```
-## Example 
-```bash 
+## Output
+```mathematica
 Library Catalog System
 1. Add Book
 2. Display Books
