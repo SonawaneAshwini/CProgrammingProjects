@@ -54,7 +54,7 @@ Calendar Application
 Enter your choice: 
 ```
 
-## Example 
+## Output
 ```yaml
 Calendar Application
 1. Add Event
