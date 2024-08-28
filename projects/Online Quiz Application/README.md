@@ -2,7 +2,6 @@
 A simple C program to manage an online quiz application. The application allows you to add questions, display all questions, and conduct a quiz with a score at the end.
 ## Description
 This program is a basic implementation of an online quiz application. It supports the following functionalities:
-
 - Add a new question with multiple-choice options
 - Display all questions with their options and correct answers
 - Conduct a quiz and provide a score based on the user's answers
