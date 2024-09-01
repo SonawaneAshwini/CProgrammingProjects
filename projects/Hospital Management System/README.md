@@ -9,6 +9,7 @@ The program defines a structure to store patient details and provides functional
 - Display all patient records
 - Search for a patient record by ID
 - Delete a patient record by ID
+  
 ## Required Modules
 - Standard C library (<stdio.h>)
 - Standard library (<stdlib.h>)
