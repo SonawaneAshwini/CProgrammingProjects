@@ -3,7 +3,6 @@ A simple C program to manage and track fitness activities. The application allow
 
 ## Description
 This program is a basic implementation of a fitness tracker system. It supports the following functionalities:
-
 - Add a new fitness activity
 - Display all fitness activities
 - Search for a specific activity by ID
