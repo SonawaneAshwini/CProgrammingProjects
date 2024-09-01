@@ -5,7 +5,6 @@
 This project implements a Library Catalog System in C, managing books, including adding, displaying, searching, and deleting books. The system provides a text-based menu interface for user interaction.
 
 ## Features
-
 - **Add a Book:** Allows the user to add a new book to the catalog by entering the book's ID, title, author, and category.
 - **Display Books:** Displays all the books currently in the catalog.
 - **Search for a Book:** Allows the user to search for a book by its ID and displays the book's details if found.
