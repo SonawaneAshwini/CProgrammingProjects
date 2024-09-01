@@ -13,7 +13,6 @@ This project implements a Library Catalog System in C, managing books, including
 - **Exit:** Exits the program.
 
 ## Required Modules
-
 - Standard I/O library (`stdio.h`)
 - Standard library (`stdlib.h`)
 - String library (`string.h`)
