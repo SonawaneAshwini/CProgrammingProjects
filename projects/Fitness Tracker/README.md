@@ -16,7 +16,6 @@ This program is a basic implementation of a fitness tracker system. It supports 
 
 ## Required Modules
 The program uses the standard C library modules:
-
 - `stdio.h` for input/output functions
 - `stdlib.h` for memory allocation
 - `string.h` for string manipulation
