@@ -34,7 +34,6 @@ Here's a list of some of the projects included in this repository:
 |	**25**	| **[Weather Monitoring System](https://github.com/SonawaneAshwini/CProgrammingProjects/tree/main/projects/Weather%20Monitoring%20System)** |
 
 
-
 # How to Run
 To run any of these projects, follow these general steps:
 
